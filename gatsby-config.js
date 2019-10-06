@@ -31,7 +31,7 @@ const queries = [
 ];
 
 module.exports = {
-  pathPrefix: config.pathPrefix,
+  pathPrefix: "/innerspace",
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,
